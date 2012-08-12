@@ -1,0 +1,1 @@
+deb http://apt.ckan.org/ckan-1.<%= version %> lucid universe
